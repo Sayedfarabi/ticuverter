@@ -1,0 +1,412 @@
+[
+    {
+        "_id": "currency001",
+        "name": "United Arab Emirates Dirham",
+        "code": "AED"
+    },
+    {
+        "_id": "currency002",
+        "name": "Argentine Peso",
+        "code": "ARS"
+    },
+    {
+        "_id": "currency003",
+        "name": "Australian Dollar",
+        "code": "AUD"
+    },
+    {
+        "_id": "currency004",
+        "name": "Bangladeshi Taka",
+        "code": "BDT"
+    },
+    {
+        "_id": "currency005",
+        "name": "Bulgarian Lev",
+        "code": "BGN"
+    },
+    {
+        "_id": "currency006",
+        "name": "Bahraini Dinar",
+        "code": "BHD"
+    },
+    {
+        "_id": "currency007",
+        "name": "Brunei Dollar",
+        "code": "BND"
+    },
+    {
+        "_id": "currency008",
+        "name": "Bolivian Boliviano",
+        "code": "BOB"
+    },
+    {
+        "_id": "currency009",
+        "name": "Brazilian Real",
+        "code": "BRL"
+    },
+    {
+        "_id": "currency010",
+        "name": "Botswanan Pula",
+        "code": "BWP"
+    },
+    {
+        "_id": "currency011",
+        "name": "Belarusian Ruble",
+        "code": "BYN"
+    },
+    {
+        "_id": "currency012",
+        "name": "Canadian Dollar",
+        "code": "CAD"
+    },
+    {
+        "_id": "currency013",
+        "name": "Swiss Franc",
+        "code": "CHF"
+    },
+    {
+        "_id": "currency014",
+        "name": "Chilean Peso",
+        "code": "CLP"
+    },
+    {
+        "_id": "currency015",
+        "name": "Chinese Yuan",
+        "code": "CNY"
+    },
+    {
+        "_id": "currency016",
+        "name": "Colombian Peso",
+        "code": "COP"
+    },
+    {
+        "_id": "currency017",
+        "name": "Costa Rican Colón",
+        "code": "CRC"
+    },
+    {
+        "_id": "currency018",
+        "name": "Czech Koruna",
+        "code": "CZK"
+    },
+    {
+        "_id": "currency019",
+        "name": "Danish Krone",
+        "code": "DKK"
+    },
+    {
+        "_id": "currency020",
+        "name": "Dominican Peso",
+        "code": "DOP"
+    },
+    {
+        "_id": "currency021",
+        "name": "Algerian Dinar",
+        "code": "DZD"
+    },
+    {
+        "_id": "currency022",
+        "name": "Egyptian Pound",
+        "code": "EGP"
+    },
+    {
+        "_id": "currency023",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "_id": "currency024",
+        "name": "Fijian Dollar",
+        "code": "FJD"
+    },
+    {
+        "_id": "currency025",
+        "name": "British Pound Sterling",
+        "code": "GBP"
+    },
+    {
+        "_id": "currency026",
+        "name": "Georgian Lari",
+        "code": "GEL"
+    },
+    {
+        "_id": "currency027",
+        "name": "Ghanaian Cedi",
+        "code": "GHS"
+    },
+    {
+        "_id": "currency028",
+        "name": "Hong Kong Dollar",
+        "code": "HKD"
+    },
+    {
+        "_id": "currency029",
+        "name": "Croatian Kuna",
+        "code": "HRK"
+    },
+    {
+        "_id": "currency030",
+        "name": "Hungarian Forint",
+        "code": "HUF"
+    },
+    {
+        "_id": "currency031",
+        "name": "Indonesian Rupiah",
+        "code": "IDR"
+    },
+    {
+        "_id": "currency032",
+        "name": "Israeli New Sheqel",
+        "code": "ILS"
+    },
+    {
+        "_id": "currency033",
+        "name": "Indian Rupee",
+        "code": "INR"
+    },
+    {
+        "_id": "currency034",
+        "name": "Iraqi Dinar",
+        "code": "IQD"
+    },
+    {
+        "_id": "currency035",
+        "name": "Jordanian Dinar",
+        "code": "JOD"
+    },
+    {
+        "_id": "currency036",
+        "name": "Japanese Yen",
+        "code": "JPY"
+    },
+    {
+        "_id": "currency082",
+        "name": "Kenyan Shilling",
+        "code": "KES"
+    },
+    {
+        "_id": "currency037",
+        "name": "South Korean Won",
+        "code": "KRW"
+    },
+    {
+        "_id": "currency038",
+        "name": "Kuwaiti Dinar",
+        "code": "KWD"
+    },
+    {
+        "_id": "currency039",
+        "name": "Kazakhstani Tenge",
+        "code": "KZT"
+    },
+    {
+        "_id": "currency040",
+        "name": "Lebanese Pound",
+        "code": "LBP"
+    },
+    {
+        "_id": "currency041",
+        "name": "Sri Lankan Rupee",
+        "code": "LKR"
+    },
+    {
+        "_id": "currency042",
+        "name": "Lithuanian Litas",
+        "code": "LTL"
+    },
+    {
+        "_id": "currency043",
+        "name": "Moroccan Dirham",
+        "code": "MAD"
+    },
+    {
+        "_id": "currency044",
+        "name": "Myanma Kyat",
+        "code": "MMK"
+    },
+    {
+        "_id": "currency045",
+        "name": "Macanese Pataca",
+        "code": "MOP"
+    },
+    {
+        "_id": "currency046",
+        "name": "Mauritian Rupee",
+        "code": "MUR"
+    },
+    {
+        "_id": "currency047",
+        "name": "Mexican Peso",
+        "code": "MXN"
+    },
+    {
+        "_id": "currency048",
+        "name": "Malaysian Ringgit",
+        "code": "MYR"
+    },
+    {
+        "_id": "currency049",
+        "name": "Namibian Dollar",
+        "code": "NAD"
+    },
+    {
+        "_id": "currency050",
+        "name": "Nigerian Naira",
+        "code": "NGN"
+    },
+    {
+        "_id": "currency051",
+        "name": "Nicaraguan Córdoba",
+        "code": "NIO"
+    },
+    {
+        "_id": "currency052",
+        "name": "Norwegian Krone",
+        "code": "NOK"
+    },
+    {
+        "_id": "currency053",
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+    },
+    {
+        "_id": "currency054",
+        "name": "New Zealand Dollar",
+        "code": "NZD"
+    },
+    {
+        "_id": "currency055",
+        "name": "Omani Rial",
+        "code": "OMR"
+    },
+    {
+        "_id": "currency056",
+        "name": "Peruvian Nuevo Sol",
+        "code": "PEN"
+    },
+    {
+        "_id": "currency057",
+        "name": "Philippine Peso",
+        "code": "PHP"
+    },
+    {
+        "_id": "currency058",
+        "name": "Pakistani Rupee",
+        "code": "PKR"
+    },
+    {
+        "_id": "currency059",
+        "name": "Polish Zloty",
+        "code": "PLN"
+    },
+    {
+        "_id": "currency060",
+        "name": "Paraguayan Guarani",
+        "code": "PYG"
+    },
+    {
+        "_id": "currency061",
+        "name": "Qatari Rial",
+        "code": "QAR"
+    },
+    {
+        "_id": "currency062",
+        "name": "Romanian Leu",
+        "code": "RON"
+    },
+    {
+        "_id": "currency063",
+        "name": "Serbian Dinar",
+        "code": "RSD"
+    },
+    {
+        "_id": "currency064",
+        "name": "Russian Ruble",
+        "code": "RUB"
+    },
+    {
+        "_id": "currency065",
+        "name": "Saudi Riyal",
+        "code": "SAR"
+    },
+    {
+        "_id": "currency066",
+        "name": "Swedish Krona",
+        "code": "SEK"
+    },
+    {
+        "_id": "currency067",
+        "name": "Singapore Dollar",
+        "code": "SGD"
+    },
+    {
+        "_id": "currency068",
+        "name": "Salvadoran Colón",
+        "code": "SVC"
+    },
+    {
+        "_id": "currency069",
+        "name": "Thai Baht",
+        "code": "THB"
+    },
+    {
+        "_id": "currency070",
+        "name": "Tunisian Dinar",
+        "code": "TND"
+    },
+    {
+        "_id": "currency071",
+        "name": "Turkish Lira",
+        "code": "TRY"
+    },
+    {
+        "_id": "currency072",
+        "name": "New Taiwan Dollar",
+        "code": "TWD"
+    },
+    {
+        "_id": "currency073",
+        "name": "Tanzanian Shilling",
+        "code": "TZS"
+    },
+    {
+        "_id": "currency074",
+        "name": "Ukrainian Hryvnia",
+        "code": "UAH"
+    },
+    {
+        "_id": "currency081",
+        "name": "Ugandan Shilling",
+        "code": "UGX"
+    },
+    {
+        "_id": "currency075",
+        "name": "US Dollar",
+        "code": "USD"
+    },
+    {
+        "_id": "currency076",
+        "name": "Uruguayan Peso",
+        "code": "UYU"
+    },
+    {
+        "_id": "currency077",
+        "name": "Uzbekistan Som",
+        "code": "UZS"
+    },
+    {
+        "_id": "currency078",
+        "name": "Vietnamese Dong",
+        "code": "VND"
+    },
+    {
+        "_id": "currency079",
+        "name": "CFA Franc BCEAO",
+        "code": "XOF"
+    },
+    {
+        "_id": "currency080",
+        "name": "South African Rand",
+        "code": "ZAR"
+    }
+]
